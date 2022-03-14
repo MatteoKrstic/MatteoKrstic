@@ -1,7 +1,7 @@
-### Hi there 👋
 
+## Hi, my name is Matteo I live in italy and I love coding
+### My contacts:
+#### Discord `Matteo Krstic#8397`
+#### Twitter `@grabbino_`
 
-- 🔭 I’m currently working on yapm
-- 🌱 I’m currently learning C++ and python
-- 😄 Pronouns: He/Him
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grabbino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
