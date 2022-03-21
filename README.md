@@ -4,4 +4,4 @@
 #### Discord `Matteo Krstic#8397`
 #### Twitter `@grabbino_`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grabbino)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grabbino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
