@@ -7,7 +7,7 @@ I'm Matteo and I'm studying to become a professional developer one day in my lif
 I really enjoy phonk music.
 
 ## Projects
-I'm currently working on life engine. A cli dashboard that displays informations about your life
+I'm currently not working on anything that matters
 
 ### My contacts:
 #### Discord `Matteo Krstic#8397`
