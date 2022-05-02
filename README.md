@@ -18,4 +18,4 @@ My skills: ![C](https://img.shields.io/badge/-C-black?&logo=c) ![JavaScript](htt
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoKrstic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoKrstic&layout=compact&theme<0midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
